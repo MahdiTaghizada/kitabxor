@@ -1,0 +1,6 @@
+@Kitabxor.WebApi_HostAddress = http://localhost:5229
+
+GET {{Kitabxor.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
